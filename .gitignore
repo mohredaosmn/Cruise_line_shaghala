@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Cruise_Line/FileContentIndex/ec12cadd-9003-4761-a63f-9491235222c3.vsidx
+/.vs/Cruise_Line/FileContentIndex/26bcebfd-24fb-41bd-beb5-3f8b075aaa02.vsidx
+/.vs/Cruise_Line/FileContentIndex/556800f3-2cd8-49bc-bae7-44cc87231194.vsidx
+/.vs/Cruise_Line/FileContentIndex/4f2ae42d-455a-481f-b724-d0aa5fbe71a7.vsidx
+/.vs/Cruise_Line/FileContentIndex/74bd4ae0-d7fe-4dcc-880c-a2a47df706c8.vsidx
+/.vs/Cruise_Line/FileContentIndex/b08d941a-4bb2-4ca0-b894-8708ddc5b3f8.vsidx
+/.vs/Cruise_Line/FileContentIndex/86acc21d-eaa6-4a66-a4c2-1e74d2944026.vsidx
+/.vs/Cruise_Line/FileContentIndex/b11f3924-45c1-473f-a172-7ef69b0fa32d.vsidx
+*.vsidx
+/.vs/Cruise_Line/FileContentIndex/d58de9f7-0be9-4ed3-968c-b9c64a687e0e.vsidx
+/.vs/Cruise_Line/FileContentIndex/dbd29f00-3370-4b31-86ac-6f3bbc02a55d.vsidx
+/.vs/Cruise_Line/FileContentIndex/e651223f-d71a-4df4-8471-855805ee24bd.vsidx
+/.vs/Cruise_Line/FileContentIndex/e4c9b293-8f7f-4ccd-b678-e73ea35f91f4.vsidx
+/Cruise_Line/DBManager.cs
